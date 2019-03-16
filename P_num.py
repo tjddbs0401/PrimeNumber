@@ -1,8 +1,8 @@
-import custom_math
+import custom_math 
 count = input("Input: ");
-i = 2
+i = 2 
 while 1 : 
-    if(custom_math.isPrime(i)) :
+    if(custom_math.isPrime(i)) : 
         count = count -1
     if(count == 0): 
         break
